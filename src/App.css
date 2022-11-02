@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin-top: 200px;
+  background-color: #EC6665;
+  background-size: cover;
+  
+  }
+
+.App h1{
+  
+  margin: auto;
+  font-size: 70px;
+  color: aliceblue;
+}
+
+.App h5{
+  font-size: 40px;
+  color: aliceblue;
+}
+
+.App img{
+  width: 150px;
+}
